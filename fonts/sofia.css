@@ -1,20 +1,20 @@
 @font-face {
     font-family: 'SofiaPro';
-    src: url('./sofia/Sofia\ Pro\ -\ Bold.otf') format('opentype');
+    src: url('./sofia/Sofia-Pro-Bold.otf') format('opentype');
     font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'SofiaPro';
-    src: url('./sofia/Sofia\ Pro\ -\ Medium.otf') format('opentype');
+    src: url('./sofia/Sofia-Pro-Medium.otf') format('opentype');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'SofiaPro';
-    src: url('./sofia/Sofia\ Pro\ -\ Semibold.otf') format('opentype');
+    src: url('./sofia/Sofia-Pro-Semibold.otf') format('opentype');
     font-weight: 600;
     font-style: normal;
 }
